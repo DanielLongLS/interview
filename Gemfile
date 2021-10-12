@@ -7,7 +7,7 @@ gem 'jbuilder', '~> 2.9.1'
 gem 'rails', '~> 6.0.0'
 gem 'rspec-rails', '~> 3.8'
 gem 'sqlite3', '~> 1.4'
-gem 'puma', '~> 3.11'
+gem 'puma', '~> 4.3'
 gem 'bootsnap', '>= 1.4.2', require: false
 
 group :development, :test do
